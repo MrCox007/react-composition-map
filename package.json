@@ -1,0 +1,13 @@
+{
+  "name": "react-composition-map",
+  "version": "0.1.0",
+  "author": "eDialog24 AS",
+  "description": "Creates a image which contains a map over the components in a react project",
+  "private": true,
+  "scripts": {},
+  "dependencies": {
+    "glob": "^6.0.1",
+    "wavi": "^0.2.16"
+  },
+  "license": "custom"
+}
