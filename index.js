@@ -63,7 +63,9 @@ var buildArray = function(options,callback)
             data[i].require = matches;
 
         }
-        callback(data);
+        if(callback) {
+            callback(data);
+        }
 
         for(var i=0; i<data.length; i++) {
             data[i].group = "js";
