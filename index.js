@@ -2,9 +2,9 @@ var fs=require('fs');
 var glob = require("glob");
 var wavi = require('wavi');
 var data=[];
-
+adsf
 var totLength = -1;
-
+//swag
 
 /*not in use yet
  var jsonStructured = {name:"root"};
